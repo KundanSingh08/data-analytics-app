@@ -1,6 +1,6 @@
-##Data Analytics App
+Data Analytics App
 
-##Python-Based Data Analytics Application Deployment
+Python-Based Data Analytics Application Deployment
 
 Objective
 
