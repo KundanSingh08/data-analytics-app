@@ -1,5 +1,5 @@
-Data Analytics App
-Python-Based Data Analytics Application Deployment
+#Data Analytics App
+#Python-Based Data Analytics Application Deployment
 Objective
 The aim of this project is to create a Python-based data analytics application and set up a fully automated CI/CD pipeline. This pipeline will handle building, testing, deploying, and monitoring the application with tools like Docker, Kubernetes (Minikube), and Jenkins.
 
