@@ -1,6 +1,9 @@
-#Data Analytics App
-#Python-Based Data Analytics Application Deployment
+##Data Analytics App
+
+##Python-Based Data Analytics Application Deployment
+
 Objective
+
 The aim of this project is to create a Python-based data analytics application and set up a fully automated CI/CD pipeline. This pipeline will handle building, testing, deploying, and monitoring the application with tools like Docker, Kubernetes (Minikube), and Jenkins.
 
 Technologies Used
@@ -56,3 +59,11 @@ Fully functional CI/CD pipeline.
 Comprehensive and clear documentation.
 Ability to demonstrate the project effectively.
 This README provides a simple guide to completing and deploying the application. Customize further based on your specific implementation.
+![Screenshot 2024-11-27 194227 1](https://github.com/user-attachments/assets/e46e63d0-32cf-40f5-bd24-3a8156dfccfb)
+![Screenshot 2024-11-27 202122 1](https://github.com/user-attachments/assets/b93a416b-aa87-40a8-891e-26a904ac200c)
+![Screenshot 2024-11-27 202149 1](https://github.com/user-attachments/assets/f991392b-04c2-4e43-b6eb-793480859b08)
+![Screenshot 2024-11-27 202353 1](https://github.com/user-attachments/assets/1f980d94-aebf-4063-bd2e-0f4b7b99b961)
+![Screenshot 2024-11-27 202632 1](https://github.com/user-attachments/assets/a54606b4-9d0d-4cbe-a729-7e557fe715a3)
+![Screenshot 2024-11-27 231713 1](https://github.com/user-attachments/assets/71c7550a-26f5-44d8-97a8-2fac48f1b09f)
+![Screenshot 2024-11-27 231719 1](https://github.com/user-attachments/assets/1b713e15-96c7-4b75-a95d-f344999788e2)
+![Screenshot 2024-11-27 193949 1](https://github.com/user-attachments/assets/0dc13d12-f387-4f6a-8026-d6075b10432e)
